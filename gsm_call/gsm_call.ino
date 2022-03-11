@@ -27,9 +27,9 @@ bool auto_answer = false; // menerima panggilan otomatis
 #define menit_tutup     59
 
 // set nomor hp panggilan
-#define nomor_cek   "ATD082281406024;"
-#define nomor_hp    "ATD085261098637;"
-//#define nomor_hp    "ATD085261098617;"
+#define nomor_cek   "ATD08xxxx;"
+#define nomor_hp    "ATD08xxxx;"
+//#define nomor_hp    "ATD08xxxx;"
 /**********************************************************************/
 
 // koneksi modul sim7600 ke arduino board
