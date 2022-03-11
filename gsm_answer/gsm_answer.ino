@@ -27,10 +27,10 @@ bool auto_call = false;  // memanggil panggilan secara otomatis
 #define menit_akhir_2   59
 
 // set nomor hp panggilan
-//#define nomor_hp    "ATD082281406024;"
-#define nomor_cek   "ATD082281406024;"
-//#define nomor_hp    "ATD085261098617;"
-#define nomor_hp    "ATD085261098637;"
+//#define nomor_hp    "ATD08xxx;"
+#define nomor_cek   "ATD08xxx;"
+//#define nomor_hp    "ATD08xxx;"
+#define nomor_hp    "ATD08xxxx;"
 
 /**********************************************************************/
 
