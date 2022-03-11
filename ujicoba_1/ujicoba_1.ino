@@ -20,8 +20,8 @@
 * 1. ATD+"+628XXXX" -> used to call phone number.
 * 2. ATA "answer an incoming call"
 * 3. ATH / AT+CHUP "disconnect an incoming call"
-* 085261098637
-* 085261098617
+* 
+* 
 */
 
 #include<SoftwareSerial.h>
